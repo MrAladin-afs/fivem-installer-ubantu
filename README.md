@@ -7,7 +7,7 @@ Simple bash script to install [TxAdmin]() ( and [MariaDB]() + [PHPMyAdmin]()) on
 Run the following script (interactive) to open a menu to choose what you want.
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/Twe3x/fivem-installer/main/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/MrAladin-afs/fivem-installer-ubantu/main/setup.sh)
 ```
 
 >After running this, you can choose between multiple options (use the arrow keys to navigate and press enter to choose)
