@@ -19,3 +19,7 @@ bash <(curl -s https://raw.githubusercontent.com/MrAladin-afs/fivem-installer-ub
 
 ## ❗LICENSE:
 This software is distributed under the [ license](/LICENSE).
+
+
+
+Type in your terminal: screen -r fivem. Then press CTRL and C. This will stop the server. If you want to start it again go to the FiveM directory (cd /home/FiveM/server) and run ./run .sh . To exit the screen press CTRL and A followed by D.
